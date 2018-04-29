@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">ComunicacionF</string>
+    <string name="app_name">Sistema de Ventas</string>
+    <string name="login">Login</string>
+    <string name="ingresar">Login</string>
+    <string name="registrar">Registrar</string>
+    <string name="ver">Mostrar Productos</string>
+    <string name="eliminar">Eliminar Producto</string>
+    <string name="agregar">Agregar Producto</string>
+    <string name="Actulizar">Actualizar producto</string>
+    <string name="buscar">Buscar Producto</string>
+    <string name="dui">Dui</string>
+    <string name="nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="FechaNac">Fecha de Nacimiento</string>
+    <string name="user">User</string>
+    <string name="pass">Pass</string>
+    <string name="tipo">tipo</string>
+
 </resources>
